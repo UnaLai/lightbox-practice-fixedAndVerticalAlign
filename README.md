@@ -1,4 +1,4 @@
-# lightbox-practice-onsale
+# lightbox-practice-fixedAndVerticalAlign
 ![](https://i.imgur.com/w5SxvYH.jpg)
 
 ## 練習內容
