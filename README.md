@@ -1,4 +1,5 @@
-# lightbox-practice-fixedAndVerticalAlign
+# lightbox 定位練習
+
 ![](https://i.imgur.com/w5SxvYH.jpg)
 
 ## 練習內容
